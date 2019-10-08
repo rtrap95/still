@@ -1,2 +1,0 @@
-export const SET_CURRENT_ROOM = "SET_CURRENT_ROOM";
-export const DELETE_ROOM = "DELETE_ROOM";
